@@ -98,7 +98,7 @@
     "@typescript-eslint/eslint-plugin": "^4.29.0",
     "@typescript-eslint/parser": "^4.29.0",
     "ace-builds": "1.2.2",
-    "ajv": "4.11.2",
+    "ajv": "6.12.3",
     "babel-loader": "8.2.5",
     "colors": "1.4.0",
     "commit-and-tag-version": "^11.0.0",
