@@ -87,7 +87,7 @@
     "@types/babel__traverse": "7.18.2",
     "@types/ace": "0.0.32",
     "@types/angular": "^1.6.2",
-    "@types/jest": "23.3.3",
+    "@types/jest": "23.3.14",
     "@types/jquery": "^2.0.39",
     "@types/node": "* <=18.11.12",
     "@types/papaparse": "^5.0.4",
