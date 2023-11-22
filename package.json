@@ -85,7 +85,7 @@
   "devDependencies": {
     "downlevel-dts": "~0.11.0",
     "@types/babel__traverse": "7.18.2",
-    "@types/ace": "0.0.32",
+    "@types/ace": "0.0.52",
     "@types/angular": "^1.6.2",
     "@types/jest": "23.3.3",
     "@types/jquery": "^2.0.39",
