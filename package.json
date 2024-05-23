@@ -84,7 +84,7 @@
   "private": true,
   "devDependencies": {
     "downlevel-dts": "~0.11.0",
-    "@types/babel__traverse": "7.18.2",
+    "@types/babel__traverse": "7.20.6",
     "@types/ace": "0.0.32",
     "@types/angular": "^1.6.2",
     "@types/jest": "23.3.3",
