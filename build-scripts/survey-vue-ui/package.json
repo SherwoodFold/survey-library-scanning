@@ -26,6 +26,6 @@
   "typings": "survey-vue-ui.d.ts",
   "dependencies": {
     "survey-core": "*",
-    "vue": "^2.6.12"
+    "vue": "^3.0.0"
   }
 }
